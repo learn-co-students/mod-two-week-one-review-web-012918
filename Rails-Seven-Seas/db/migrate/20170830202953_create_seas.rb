@@ -1,4 +1,4 @@
-class CreateSeas < ActiveRecord::Migration
+class CreateSeas < ActiveRecord::Migration[5.1]
   def change
     create_table :seas do |t|
       t.string :name
