@@ -16,7 +16,7 @@ Don't worry if the styling seems a bit magical right now; your focus will be mai
 ## Goal
 Your job is to recreate the Seven Seas application in Rails. To a user, the Sinatra and Rails apps should be indistinguishable.
 
-Feel free to copy/paste where applicable from Sinatra to Rails. While copy-pasta is usually discouraged in Learn labs, the goal of this lesson is to become aware of the similarities and differences between Rails and Sinatra applications.
+Feel free to copy/paste where applicable from Sinatra to Rails. While copy-pasta is usually discouraged in labs, the goal of this lesson is to become aware of the similarities and differences between Rails and Sinatra applications.
 
 ## Caveats and Tips
 
@@ -39,4 +39,5 @@ Feel free to copy/paste where applicable from Sinatra to Rails. While copy-pasta
   - Check the (excellent) <a href="http://guides.rubyonrails.org/">Rails documentation</a> or Google the error
   
  ## Bonus
-  Uh oh, the Rails forms have no styling! Check the Rails documentation to see how to add css styling to Rails forms. 
+ 
+ Uh oh, the Rails forms have no styling! Check the Rails documentation to see how to add css styling to Rails forms. 
